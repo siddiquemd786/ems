@@ -9,15 +9,23 @@
   box-sizing: border-box;
 }
 
+*{
+  color:white;
+}
+
 html,body{
   height: 100%;
   width: 100%;
 }
 body{
   background-color: #111;
-  color: white;
+ 
 }
 
 #tasklist::-webkit-scrollbar{
   display:none;
+}
+
+#Alltasks::-webkit-scrollbar{
+  display: none;
 }

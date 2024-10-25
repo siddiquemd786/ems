@@ -17,7 +17,7 @@ const submitHandaler=(e)=>{
 
 
   return (
-    <div className='flex justify-center h-screen w-screen items-center'>
+    <div className='flex text-white justify-center h-screen w-screen items-center'>
 
         <div className='flex justify-center items-center border-2 border-red-700 p-20 rounded-md'>
 

@@ -2,7 +2,7 @@ import React from 'react'
 
 const Tasklist = () => {
   return (
-    <div id='tasklist' className='h-[55%] overflow-x-auto w-full flex items-center justify-start flex-nowrap gap-5 mx-auto py-5 mt-10'>
+    <div id='tasklist' className='h-[55%] text-white overflow-x-auto w-full flex items-center justify-start flex-nowrap gap-5 mx-auto py-5 mt-10'>
 
         <div className='flex-shrink-0 h-full w-[340px]  bg-red-400 p-5 rounded-xl'>
           <div className='flex items-center justify-between'>
